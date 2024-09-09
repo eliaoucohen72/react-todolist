@@ -1,7 +1,7 @@
 # Todo List with Drag and Drop
 
 ## Description
-A **React and Vite.js**-based **Todo List** application that allows users to drag and drop tasks between different lists. This project demonstrates how to implement drag-and-drop functionality in React.
+A **React** and **Vite.js**-based **Todo List** application that allows users to drag and drop tasks between different lists. This project demonstrates how to implement drag-and-drop functionality in React.
 
 ## Features
 - Create, edit, and delete tasks
